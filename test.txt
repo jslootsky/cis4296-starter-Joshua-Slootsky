@@ -1,3 +1,1 @@
-"" 
-
-this is a test for the assignment
+this is the alternate text file 
